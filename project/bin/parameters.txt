@@ -1,0 +1,14 @@
+11.jpg 11_mod.jpg opencv grey_augment 50 60 100 120 30 200
+11.jpg 11_mod2.jpg opencv color_augment 50 60 100 120
+11.jpg 11_gray.jpg opencv gray
+11.jpg 11_equalize.jpg opencv equalize
+11.jpg 11_stretched50_100.jpg opencv stretch 50 100
+11.jpg 11_stretched0_150.jpg opencv stretch 25 150
+11.jpg 11_equalTh60.jpg opencv equalize_dark 60
+11.jpg 11_equalTh150.jpg opencv equalize_dark 150
+11.jpg 11_eq_R.jpg opencv equalize_rgb R
+11.jpg 11_eq_G.jpg opencv equalize_rgb G
+11.jpg 11_eq_B.jpg opencv equalize_rgb B
+11.jpg 11_eq_H.jpg opencv equalize_hsi true false false
+11.jpg 11_eq_S.jpg opencv equalize_hsi false true false
+11.jpg 11_eq_I.jpg opencv equalize_hsi false false true
